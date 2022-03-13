@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522973105822",
+    "project_id": "aircraftpowerplant",
+    "firebase_url": "https://aircraftpowerplant-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "aircraftpowerplant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522973105822:android:ea39b0d58e9e11391cb58f",
+        "android_client_info": {
+          "package_name": "com.PHILSCAIT.AugmentedRealityPowerplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522973105822-pu06svu9us63f6cueva3r0ugg6pglfjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Rkd-uNW_FjT1Z89UnUTB8WZlccNoooU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522973105822-pu06svu9us63f6cueva3r0ugg6pglfjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TURBOPROP_IMG" size="5.000000 8.888889" />
+    <ImageTarget name="TURBOJET_IMG" size="5.000000 8.888889" />
+    <ImageTarget name="TURBOFAN_IMG_scaled" size="1.200000 2.133333" />
+  </Tracking>
+</QCARConfig>
