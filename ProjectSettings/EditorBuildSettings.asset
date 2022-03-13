@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2299a8b884723a549adacb6f752532fb
+  - enabled: 1
+    path: Assets/Scenes/TurboJet.unity
+    guid: 0aa541e6430542740bd809a079bd927a
+  - enabled: 1
+    path: Assets/Scenes/TurboFan.unity
+    guid: 26a9a236e4b20574baf5cb8148e34067
+  - enabled: 1
+    path: Assets/Scenes/LoadMainScene.unity
+    guid: edf1db6491f07ce44875e91dd5e28f6c
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 038e5f7259452c1468ecab34575145ab
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9768bc819aba6d743bac7e8bca1e1bc2
+  - enabled: 1
+    path: Assets/Scenes/TurboProp.unity
+    guid: 9d8eb9dff5374f64fa57212f49aeb773
+  m_configObjects: {}
